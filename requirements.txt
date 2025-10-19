@@ -1,0 +1,15 @@
+
+---
+
+### 2️⃣ `requirements.txt`
+
+```text
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.23
+scipy>=1.10
+scikit-image>=0.20
+nibabel>=5.1
+pyyaml>=6.0
+tqdm>=4.65
+matplotlib>=3.7
